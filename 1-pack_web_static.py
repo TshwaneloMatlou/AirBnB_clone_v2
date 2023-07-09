@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-""" Script Fabric that generates a .tgz from the contents of web_static """
 from fabric.api import local
 from datetime import datetime
 import os
